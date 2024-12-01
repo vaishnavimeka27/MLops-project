@@ -1,0 +1,26 @@
+{	
+    "SampleFileName": "insurance_08012020_120000.csv",
+	"LengthOfDateStampInFile": 8,
+	"LengthOfTimeStampInFile": 6,
+	"NumberofColumns" : 18,
+	"ColName": {
+		"age" : "varchar",
+		"bmi": " float",
+		"children": " float",
+		"lifeexpectancy": " float",
+		"generalmedicalhistory": " float",
+		"smokerbin": " float",
+		"sexbin": " float",
+		"mediandeathbin": " float",
+		"cancerfactorlung": " float",
+		"criticalcarefactor": " float",
+		"accidentfactor": " float",
+		"healthcheckupfactor": " float",
+		"surgeryfactor": " float",
+		"expensesfactor": " float",
+		"agegrouppremiumbin": " float",
+		"regoinfactor": " float",
+		"medprocfactor": " float"
+		
+	}
+}
